@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+# R install
+resources/
+
 # Session Data files
 .RData
 
