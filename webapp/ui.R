@@ -71,7 +71,7 @@ fluidPage(
                         label = "Start right side triangles",
                         min = 50,
                         max = 100,
-                        value = 50),
+                        value = 60),
             sliderInput(inputId = "rightXDistance",
                         label = "Right Side x-distance between rows",
                         min = 1,
